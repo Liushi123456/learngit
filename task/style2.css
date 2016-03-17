@@ -1,0 +1,140 @@
+.bording
+{
+	background-color:rgb(51,51,51);
+	height: 60px;
+	width: 100%;
+}
+.bording img
+{
+	display: block;
+	height: 50px;
+	float: left;
+}
+.bording ul
+{
+	float: left;
+	padding-left: 295px;
+}
+.bording li
+{
+	float:left;
+	margin-top: 10px;
+	margin-right: 20px;
+	font-size: 12px; 
+	color: white;
+
+}
+
+
+.header
+{
+	width: 1300px;
+	height: 500px;
+	border: 15px solid #DDDDDD;	
+}
+.then
+{
+	width: 1300px;
+	height: 550px;
+	border: 15px solid #DDDDDD;
+}
+.picture
+{
+	height: 750px;
+	width: 1200px;
+    border: 15px solid #DDDDDD;
+}
+.photo
+{
+	height: 130px;
+	width: 125px;
+	border: 1px solid rgb(206,206,206);
+    margin-left: 30px;
+}
+.picture p,img
+{
+    margin-left: 15px;
+    margin-top:5px; 
+}
+.last
+{
+	height: 430px;
+	width: 1200px;
+	border: 15px solid #DDDDDD;
+}
+.last table
+{
+	height: 150px;
+	width: 1200px;
+}
+.last #tab
+{
+	color: white;
+}
+.fun
+{
+	height: 550px;
+	width: 1200px;
+	border: 15px solid #DDDDDD;
+}
+.fun #title
+{
+	font-size: 20px;
+}
+.fun #tips1,#tips2
+{
+	margin-left:110px; 
+	color: #9f93a7;
+}
+.fun #mima
+{
+	margin-left:30px; 
+}
+.fun #tips3
+{
+	margin-left:70px; 
+}
+.fun #tips4
+{
+	margin-left:40px; 
+}
+.fun #tips4 m
+{
+    height: 109px;
+    width: 70px;
+    padding-bottom:60px; 
+}
+textarea
+{
+
+	height: 100px;
+	width: 760px;
+}
+.fun #submit input
+{
+	width: 1150px;
+	height: 40px;
+	margin-left: -230px;
+	border-radius: 500px;
+	background-color:#00BBFF;
+}
+
+.personal
+{
+	height: 400px;
+	width: 1200px;
+	margin-left: 250px;
+	font-size: 14px;
+}
+.end
+{
+	height:60px;
+	width: 1280px;
+	background-color:rgb(0,0,0);
+}
+.end p
+{
+    color: white;
+    padding-top: 25px;
+    font-size: 12px;
+}
